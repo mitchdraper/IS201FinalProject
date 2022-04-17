@@ -1,0 +1,142 @@
+#haha{
+color: #ffffff;
+}
+
+#topPicture{
+    height: 200px;
+}
+
+.post-preview > .post-meta {
+    color: rgb(224, 224, 224);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #17bb77;
+    border-color: #17bb77;
+  }
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #17bb77;
+    border-color: #17bb77;
+  }
+
+  .text-muted {
+    --bs-text-opacity: 1;
+    color: rgb(224, 224, 224) !important;
+  }
+
+  .post-preview > a:focus, .post-preview > a:hover {
+    text-decoration: none;
+    color: #137e51;
+  }
+
+  #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
+    color: #137e51;
+  }
+  #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
+    color: #137e51;
+  }
+  a:hover {
+    color: #137e51;
+  }
+
+  .resumetitle{
+      text-align: center;
+      color: white;
+  }
+
+  .topanchor{
+      font-size: small;
+      font-weight: bolder;
+      border: black;
+  }
+
+  .websitelink{
+      color: black;
+      font-weight: bolder;
+      font-size: large;
+      background-color: aliceblue;
+      border: 2px solid black;
+      text-align: center;
+      display: block;
+
+  }
+
+.titles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mitchlooksnice{
+    width: 500px;
+    height: 600px;
+    float: left;
+    position: static;
+    right: 100px;
+    top: 200px;
+}
+.beast{
+    color: #17bb77;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hey{
+    color: darkolivegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lol{
+    color: darkolivegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.vidtext{
+    text-align: center;
+}
+
+.vid{
+    position: relative;
+    left: 500px;
+    right: auto;
+}
+
+.tableauwebsite{
+    text-align: center;
+}
+
+.babyyoda{
+    width: 300px;
+    height: 400px;
+    float: auto;
+}
+
+.yeaa{
+    width: 300px;
+    height: 400px;
+    float: auto;
+}
+
+.simp{
+    width: 300px;
+    height: 400px;
+    float: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 50px;
+    gap: 40px;
+}
+
+.grid-item {
+background-image: linear-gradient(to right, skyblue , pink);
+border: solid 2px brown;
+text-align: center;
+border-radius: 25px;
+}
+
+.livegraphs{
+    text-align: center;
+}
+
